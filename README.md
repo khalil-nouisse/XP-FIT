@@ -1,4 +1,6 @@
-# XP-FIT 🏃‍♂️💪
+<div>
+    <h1>XP-FIT 🏃‍♂️💪</h1> 
+</div>
 
 A gamified mobile fitness and nutrition tracking application that transforms health monitoring into a fun and engaging experience.
 
